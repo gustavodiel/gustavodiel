@@ -5,6 +5,8 @@
 - 👨‍💻 I'm currently working for [Magrahtea Labs](https://magrathealabs.com) - Come and [join us](https://careers.magrathealabs.com)!
 - ⚡️ Always looking forward to help
 
+---
+
 ### 🗣 Connect with me:
 
 [<img align="left" alt="Diel | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
