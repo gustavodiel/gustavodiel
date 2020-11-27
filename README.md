@@ -24,6 +24,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#1728](https://github.com/jeremyevans/sequel/issues/1728) in [jeremyevans/sequel](https://github.com/jeremyevans/sequel)
+2. ❗️ Opened issue [#7](https://github.com/gustavodiel/wallpapers/issues/7) in [gustavodiel/wallpapers](https://github.com/gustavodiel/wallpapers)
+3. 🎉 Merged PR [#6](https://github.com/gustavodiel/wallpapers/pull/6) in [gustavodiel/wallpapers](https://github.com/gustavodiel/wallpapers)
+4. 🎉 Merged PR [#5](https://github.com/gustavodiel/wallpapers/pull/5) in [gustavodiel/wallpapers](https://github.com/gustavodiel/wallpapers)
+5. 🎉 Merged PR [#4](https://github.com/gustavodiel/wallpapers/pull/4) in [gustavodiel/wallpapers](https://github.com/gustavodiel/wallpapers)
 <!--END_SECTION:activity-->
 
 ---
