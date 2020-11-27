@@ -17,6 +17,9 @@
 
 ### 📘 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Swift extensions  for easier Array manipulation](https://blog.magrathealabs.com/swift-extensions-for-easier-array-manipulation-f5bb72167544?source=rss-33f9281bad5b------2)
+- [Advanced BigQuery queries with JavaScript and JSON](https://blog.magrathealabs.com/advanced-bigquery-queries-with-javascript-and-json-e02fb58f38cb?source=rss-33f9281bad5b------2)
+- [Fetching millions of rows from PostgreSQL with Rails](https://blog.magrathealabs.com/fetching-millions-of-rows-from-postgresql-with-rails-70c0cec1b6f5?source=rss-33f9281bad5b------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
