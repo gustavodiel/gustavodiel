@@ -29,11 +29,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4](https://github.com/guilhermedd/Crube-do-Livro/issues/4) in [guilhermedd/Crube-do-Livro](https://github.com/guilhermedd/Crube-do-Livro)
-2. ❗️ Opened issue [#3](https://github.com/guilhermedd/Crube-do-Livro/issues/3) in [guilhermedd/Crube-do-Livro](https://github.com/guilhermedd/Crube-do-Livro)
-3. ❗️ Opened issue [#2](https://github.com/guilhermedd/Crube-do-Livro/issues/2) in [guilhermedd/Crube-do-Livro](https://github.com/guilhermedd/Crube-do-Livro)
-4. 💪 Opened PR [#1](https://github.com/guilhermedd/Crube-do-Livro/pull/1) in [guilhermedd/Crube-do-Livro](https://github.com/guilhermedd/Crube-do-Livro)
-5. 💪 Opened PR [#16](https://github.com/guilhermegonc/test-project/pull/16) in [guilhermegonc/test-project](https://github.com/guilhermegonc/test-project)
+1. ❌ Closed PR [#44](https://github.com/MakersNetwork/agenda-saude/pull/44) in [MakersNetwork/agenda-saude](https://github.com/MakersNetwork/agenda-saude)
+2. ❗️ Opened issue [#4](https://github.com/guilhermedd/Crube-do-Livro/issues/4) in [guilhermedd/Crube-do-Livro](https://github.com/guilhermedd/Crube-do-Livro)
+3. ❗️ Opened issue [#3](https://github.com/guilhermedd/Crube-do-Livro/issues/3) in [guilhermedd/Crube-do-Livro](https://github.com/guilhermedd/Crube-do-Livro)
+4. ❗️ Opened issue [#2](https://github.com/guilhermedd/Crube-do-Livro/issues/2) in [guilhermedd/Crube-do-Livro](https://github.com/guilhermedd/Crube-do-Livro)
+5. 💪 Opened PR [#1](https://github.com/guilhermedd/Crube-do-Livro/pull/1) in [guilhermedd/Crube-do-Livro](https://github.com/guilhermedd/Crube-do-Livro)
 <!--END_SECTION:activity-->
 
 ---
