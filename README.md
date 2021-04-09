@@ -29,11 +29,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/gustavodiel/colorama/pull/1) in [gustavodiel/colorama](https://github.com/gustavodiel/colorama)
-2. ❌ Closed PR [#44](https://github.com/MakersNetwork/agenda-saude/pull/44) in [MakersNetwork/agenda-saude](https://github.com/MakersNetwork/agenda-saude)
-3. ❗️ Opened issue [#4](https://github.com/guilhermedd/Crube-do-Livro/issues/4) in [guilhermedd/Crube-do-Livro](https://github.com/guilhermedd/Crube-do-Livro)
-4. ❗️ Opened issue [#3](https://github.com/guilhermedd/Crube-do-Livro/issues/3) in [guilhermedd/Crube-do-Livro](https://github.com/guilhermedd/Crube-do-Livro)
-5. ❗️ Opened issue [#2](https://github.com/guilhermedd/Crube-do-Livro/issues/2) in [guilhermedd/Crube-do-Livro](https://github.com/guilhermedd/Crube-do-Livro)
+1. 🎉 Merged PR [#4](https://github.com/gustavodiel/pasta_do_projeto/pull/4) in [gustavodiel/pasta_do_projeto](https://github.com/gustavodiel/pasta_do_projeto)
+2. 💪 Opened PR [#4](https://github.com/gustavodiel/pasta_do_projeto/pull/4) in [gustavodiel/pasta_do_projeto](https://github.com/gustavodiel/pasta_do_projeto)
+3. 🎉 Merged PR [#2](https://github.com/gustavodiel/pasta_do_projeto/pull/2) in [gustavodiel/pasta_do_projeto](https://github.com/gustavodiel/pasta_do_projeto)
+4. 🎉 Merged PR [#3](https://github.com/gustavodiel/pasta_do_projeto/pull/3) in [gustavodiel/pasta_do_projeto](https://github.com/gustavodiel/pasta_do_projeto)
+5. 🎉 Merged PR [#1](https://github.com/gustavodiel/pasta_do_projeto/pull/1) in [gustavodiel/pasta_do_projeto](https://github.com/gustavodiel/pasta_do_projeto)
 <!--END_SECTION:activity-->
 
 ---
